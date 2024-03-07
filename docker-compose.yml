@@ -1,0 +1,14 @@
+version: '3'
+services:
+    lru-server:
+     image: rahul0409/lru-backend:v1.0
+     restart: "always"
+     container_name: lru-backend
+     ports:
+       - "8080:8080"
+    lru-client:
+     image: rahul0409/lru-frontend:v1.0
+     restart: "always"
+     container_name: lru-frontend
+     ports:
+       - "3000:3000"
