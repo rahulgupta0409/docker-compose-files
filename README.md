@@ -20,8 +20,8 @@ docker compose up
 
 ## Backend Repository Link
 
-[a link](https://github.com/rahulgupta0409/lru-cache-backend)
+[https://github.com/rahulgupta0409/lru-cache-backend](https://github.com/rahulgupta0409/lru-cache-backend)
 
 ## Frontend Repository Link
 
-[a link](https://github.com/rahulgupta0409/lru-cache-frontend)
+[https://github.com/rahulgupta0409/lru-cache-frontend](https://github.com/rahulgupta0409/lru-cache-frontend)
