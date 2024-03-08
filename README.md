@@ -7,7 +7,7 @@ This is a LRU cache web application from which you can perform **SET** and **GET
 * Docker (for containerization)
 
 ## Quick Start
-You can get this application up and running with the following steps, assuming you have Docker installed.
+You can get this application up and running with the following steps on command line, assuming you have Docker installed.
 ```bash
 git clone https://github.com/rahulgupta0409/docker-compose-files.git
 ```
